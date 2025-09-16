@@ -1,18 +1,22 @@
-# Hi, I’m Emigbanam Uwuitaisuk
+# Hi, I’m Emigbanam Uwuitaisuk 👋
 
-I’m a data enthusiast sharpening my skills in **Data Science**, **Machine Learning**, and **AI**.  
-I build, experiment, and learn by doing.  
+I’m a **Data Scientist & Machine Learning Engineer** with a background in **engineering and design**.  
+I enjoy turning raw data into insights, building predictive models, and solving problems with code.  
 
----
+On GitHub, you’ll find my journey through:  
+- Exploratory data analysis projects  
+- Machine learning experiments (regression, classification, clustering)  
+- Practice notebooks where I learn, fail, and improve  
+- End-to-end projects tackling real-world questions  
 
-## What I Do
+I’m especially interested in:  
+- Machine Learning & AI applications  
+- Time series forecasting  
+- Natural Language Processing  
+- Smart data visualization  
 
-- I explore datasets using **exploratory data analysis (EDA)**  
-- I build regression, classification, and predictive models  
-- I apply feature engineering, preprocessing, model evaluation  
-- I document my work in **Jupyter Notebooks**
+Outside of data, I enjoy teaching, reading, and engaging in meaningful conversations about technology and society.  
 
----
 
 ## What I’ve Built (Sample Projects)
 
