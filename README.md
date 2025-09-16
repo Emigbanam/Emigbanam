@@ -1,7 +1,6 @@
 # Hi, I’m Emigbanam Uwuitaisuk 👋
 
-I’m a **Data Scientist & Machine Learning Engineer** with a background in **engineering and design**.  
-I enjoy turning raw data into insights, building predictive models, and solving problems with code.  
+**Data Scientist** and **Machine Learning Engineer** with a foundation in engineering and design. Skilled in transforming raw data into actionable insights and developing predictive models to solve real-world problems. Experienced in statistical analysis, machine learning, and end-to-end data workflows—from data collection and preprocessing to modeling, evaluation, and deployment. Adept at leveraging tools such as Python, SQL, and visualization platforms to drive data-driven decision-making. 
 
 On GitHub, you’ll find my journey through:  
 - Exploratory data analysis projects  
